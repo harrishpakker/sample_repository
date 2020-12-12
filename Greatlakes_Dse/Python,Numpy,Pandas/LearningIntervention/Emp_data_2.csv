@@ -1,0 +1,6 @@
+Emp_id,Emp_Name,Salary,manager_id,department_id
+8,Maria,14000,103,50
+9,Laura,22000,101,20
+10,Emelia,9000,102,30
+11,Buddy,,,
+12,Jess,21000,101,20

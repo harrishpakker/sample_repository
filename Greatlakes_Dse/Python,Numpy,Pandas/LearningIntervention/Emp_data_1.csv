@@ -1,0 +1,8 @@
+Emp_id,Emp_Name,Salary,manager_id,department_id
+1,Tom,5000,101,20
+2,Jake,40000,100,10
+3,Ben,4500,100,10
+4,Alex,2500,102,30
+5,Ryan,4350,103,50
+6,Liya,5500,104,40
+7,Jane,20000,103,50

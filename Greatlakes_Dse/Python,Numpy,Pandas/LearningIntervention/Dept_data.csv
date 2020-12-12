@@ -1,0 +1,7 @@
+Dept_id,Dept_name,Location_id,manager_id
+10,Sales,1700,100
+20,Marketing,1800,101
+30,Purchasing,1700,102
+40,Executive,2400,104
+50,Finance,1500,103
+60,Shipping,2200,
